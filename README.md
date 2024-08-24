@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Arjunppp 👋
 
-<!--
-**Arjunppp/Arjunppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught MERN stack developer passionate about creating innovative web applications. With a knack for problem-solving and a love for creative challenges, I strive to deliver dynamic and efficient solutions.
 
-Here are some ideas to get you started:
+## Skills
+- **Frontend:** React, Tailwind CSS, Bootstrap, EJS
+- **Backend:** Node.js, Express, PostgreSQL
+- **Database:** MongoDB, PostgreSQL
+- **Containerization:** Docker
+- **Cloud Services:** AWS EC2, S3 Bucket
+- **Authentication:** JWT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Task Manager App](https://github.com/Arjunppp/TASK_MANAGER_APP):** A robust task management application featuring Dockerization, CI/CD, and deployment on AWS EC2.
+- **[To-Do App](https://github.com/Arjunppp/React_todo):** A React-based To-Do application demonstrating full-stack development.
+
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/arjunppp)
+- [Twitter](https://twitter.com/arjunppp)
+
+Feel free to reach out or explore my projects!
